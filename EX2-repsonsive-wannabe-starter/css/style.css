@@ -146,7 +146,7 @@ img {
 
  @media screen and (max-width: 480px ) {
     .container{
-        width: 100%;
+        width: 85%;
     }
     .row{
         flex-direction: column;
@@ -154,6 +154,8 @@ img {
 
     .lessons .col {
         width: 100%;
+        margin-top: 1rem;
+        margin-bottom: 5rem;
     }
 
     .steps .col {
